@@ -20,9 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 https://i.imgur.com/yXi6XX7.gif
-
-<img src = "i.imgur.com/yXi6XX7.gif" width = 250><br>
-
+![](https://i.imgur.com/yXi6XX7.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+Some challenges I had while building the app was downloading cocoapods, I figured it out by using sudo gem to install.
