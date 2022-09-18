@@ -23,4 +23,4 @@ https://i.imgur.com/yXi6XX7.gif
 ![](https://i.imgur.com/yXi6XX7.gif)
 
 ### Notes
-Some challenges I had while building the app was downloading cocoapods, I figured it out by using sudo gem to install.
+Some challenges I had while building the app was downloading cocoapods, I figured it out by using sudo gem to install it.
