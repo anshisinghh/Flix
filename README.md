@@ -35,7 +35,6 @@ I used a collection view to create a scrollable list of movies and I was able to
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-https://i.imgur.com/l1AVSZj.gif
 ![](https://i.imgur.com/l1AVSZj.gif)
 
 ### Notes
